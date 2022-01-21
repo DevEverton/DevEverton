@@ -1,16 +1,14 @@
 ### Hello! I'm Everton  👋🏼
 
 ##
-
-- ⚓️ Marine Engineer who codes
-- 📱 3 apps published on the AppStore
-- 🔭 I’m currently working on an iOS app that help seafarers to manage their documents and certificates
-- 👨🏼‍💻 Focusing on SwiftUI now, but I've played a lot with UIKit as well
+- 📱 Currently developing high scalable production code on a large project serving over 400k users in the UK
+- 👨🏼‍💻 UIKit during the day, SwiftUI during the night
+- 📖 I love learn new technologies and build cool stuff on my free time
 
 ##
    <div>
   <a href="https://github.com/DevEverton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEverton&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEverton&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
