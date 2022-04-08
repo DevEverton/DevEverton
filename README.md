@@ -1,9 +1,10 @@
 ### Hello! I'm Everton  👋🏼
 
 ##
-- 📱 Currently developing high scalable production code on a large project serving over 400k users in the UK
+- 📱 Passioned iOS developer
+- 🐦 Content creator
 - 👨🏼‍💻 UIKit during the day, SwiftUI during the night
-- 📖 I love learn new technologies and build cool stuff on my free time
+- 📖 I love learn new technologies and build cool stuff
 
 ##
    <div>
