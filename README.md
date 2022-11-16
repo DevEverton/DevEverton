@@ -4,7 +4,7 @@
 - 📱 Passioned iOS developer
 - 🐦 Content creator
 - 👨🏼‍💻 UIKit during the day, SwiftUI during the night
-- 📖 I love learn new technologies and build cool stuff
+- 📖 I love to learn new technologies and build cool stuff
 
 ##
    <div>
