@@ -22,7 +22,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-* 💼 I'm currently working on: **📱 Building iOS products at Tellus and shipping indie apps**
+* 💼 I'm currently working on: **📱 Building and scaling consumer apps**
 * 🌱 I'm currently learning: **🤖 Agentic engineering, AI integrations, and low-level programming**
 * 💬 Ask me about: **💡 Swift, SwiftUI, UIKit, iOS Architecture, Design Patterns, Scalability, and AI-assisted development**
 * ⚡ Fun fact: **🎮 I'm learning Z80 Assembly to build retro games as my new hobby**
