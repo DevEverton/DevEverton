@@ -18,7 +18,7 @@
 <p align="left"><a href="https://twitter.com/everton_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@everton_dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/everton-carneiro-ios-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  <h5 align="left">
-🚀 iOS Engineer passionate about building polished, scalable products and understanding how things work under the hood. I work primarily with Swift, UIKit, and SwiftUI, and lately I've been exploring agentic development, AI integrations, and low-level programming. I also enjoy building indie apps, experimenting with new technologies, and sharing what I learn along the way.</h5>
+##### 🚀 Senior iOS Engineer and indie developer passionate about building polished, scalable software. I specialize in Swift, SwiftUI, and UIKit, with a strong focus on software architecture, performance, and great user experiences. Beyond iOS, I'm exploring AI engineering, agentic systems, and low-level programming. I love turning ideas into real products, experimenting with emerging technologies, and sharing what I learn along the way.</h5>
 
 **<h3 align="left">Rapid Fire</h3>**
 
